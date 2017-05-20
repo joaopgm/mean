@@ -1,0 +1,21 @@
+{
+  "name": "mean",
+  "description": "",
+  "main": "",
+  "authors": [
+    "joaopgm <jpgomesmoura@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/joaopgm/mean",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
